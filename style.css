@@ -113,17 +113,15 @@ float:left;
 }
 
 ul#topnav a{
-width:146px;
-font-size:12px;
-display:block;
-padding:5px 0 20px 10px;
-color:#fff;
-border-left:1px solid #fff;
+	width:224px;
+	font-size:12px;
+	display:block;
+	padding:5px 0 20px 10px;
+	color:#fff;
+	border-left:1px solid #fff;
 }
 
 ul#topnav li:first-child a{border:0;}
-
-ul#topnav li:last-child a{width:145px;}
 
 ul#topnav li.active a,ul#topnav a:hover{background:#73c4e6;}
 
@@ -353,7 +351,8 @@ background:#358cac;
 	
 	/* グリッド */
 	.grid{width:234px;}
-	.col2{width:469px;padding-bottom:12px;}
+	.col2{width:100%;padding-bottom:12px;
+		margin-bottom: 10px;}
 	.col3{width:704px;}
 	#gallery .grid{width:230px;}
 	#subpage #sub .grid{
