@@ -215,6 +215,17 @@ border-top:1px solid #fff;
 border-bottom:1px solid #dbdbdb;
 }
 
+.grid .workSide {
+	float:left;
+	width:25%;
+	margin:1% 2%;
+}
+.grid .workCenter {
+	float:left;
+	width:35%;
+	margin:1% 2%;
+}
+
 .grid li:first-child{border-top:0;}
 .grid li:last-child{border-bottom:0;}
 
@@ -454,6 +465,8 @@ background:#358cac;
 	}
 	
 	.grid p{text-align:left;}
+
+	.grid .workCenter{width:32%;}
 	
 	img.frame,#gallery img{border-width:2px;}
 
