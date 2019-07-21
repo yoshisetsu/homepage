@@ -362,6 +362,15 @@ background:#358cac;
 	
 	/* グリッド */
 	.grid{width:234px;}
+	.descriptionLeft {
+		width:80%;
+		float:left;
+	}
+	.descriptionRight {
+		width:20%;
+		float:left;
+		margin: 2% 0%;
+	}
 	.col2{width:100%;padding-bottom:12px;
 		margin-bottom: 10px;}
 	.col3{width:704px;}
