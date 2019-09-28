@@ -287,6 +287,11 @@ clear:left;
 margin:3px 10px 10px 1px;
 }
 
+.spcenter{
+	width:25%;
+	height:25%;
+}
+
 .alignright{
 float:right;
 clear:right;
@@ -484,6 +489,11 @@ background:#358cac;
 	display:block;
 	margin:0 auto 10px;
 	}
+
+  .spcenter{
+	  width:50%;
+	  height:50%;
+  }
 	
 	#footer .grid p{text-align:center;}
 }
