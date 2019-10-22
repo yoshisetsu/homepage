@@ -311,6 +311,13 @@ margin:5px;
 
 section#gallery{overflow:visible;}
 
+.centerImgBox{
+	text-align: center;
+}
+.centerImgBox img{
+	vertical-align: top;
+	margin-top: 1%;
+}
 
 /*************
 テーブル
